@@ -1,0 +1,18 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+
+It uses define_method to generate the appropriate color methods.
+
+How long did you spend working on this project?
+
+Actual coding was several hours, but I spent a lot of time trying to understand the lesson fully.
+This was the toughest lesson conceptually, by far. The idea that code writes more code is pretty straightforward, but I found the explanations for the code samples really hard to follow.
+
+What was the most rewarding challenge you conquered?
+
+Getting define_method method to finally work!
+
+Where do you still have room to grow?
+
+I need to find more examples to work on at some point, to really cement these methods in my head.
+
+I understand, though, that you can save time that would otherwise be spent writing repetitive code, which is a nice featuere.
